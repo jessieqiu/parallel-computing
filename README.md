@@ -1,7 +1,7 @@
 # parallel-computing
 
-matrix multiplication program using openmp library
-original code is in serial, my code decreased the time of large matrix multiplication significantly 
+matrix multiplication program using openmp library.
+original code is the serial code, my code decreased the time of large matrix multiplication significantly 
 
 
 time in seconds
