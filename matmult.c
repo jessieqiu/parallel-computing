@@ -103,7 +103,7 @@ void small_matrix_multiplication(double const * const A, double const * const B,
 
 void strassen() {
 
-	//strassen, why is it slower?
+	//strassen
 	/*
 	x = i;
 	y = j;
